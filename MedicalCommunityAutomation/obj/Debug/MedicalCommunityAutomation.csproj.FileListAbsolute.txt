@@ -1,0 +1,49 @@
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.pdb
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.pdb
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.pdb
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.pdb
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.csprojResolveAssemblyReference.cache
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll.config
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\itextsharp.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\itextsharp.pdfa.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.csprojResolveAssemblyReference.cache
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.pdb
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll.config
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.pdb
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.dll
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.dll
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.dll
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.pdb
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.pdb
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.pdb
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.dll
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.pdb
+F:\ASP.Net Project\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.csprojResolveAssemblyReference.cache
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll.config
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.pdb
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.dll
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.dll
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.dll
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.BLL.pdb
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DAO.pdb
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalAutomationCommunity.DBGateway.pdb
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.csprojResolveAssemblyReference.cache
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.dll
+E:\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.pdb

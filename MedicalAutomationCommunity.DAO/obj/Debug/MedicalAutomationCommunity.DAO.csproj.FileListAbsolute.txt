@@ -1,0 +1,9 @@
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\bin\Debug\MedicalAutomationCommunity.DAO.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\bin\Debug\MedicalAutomationCommunity.DAO.pdb
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\obj\Debug\MedicalAutomationCommunity.DAO.csprojResolveAssemblyReference.cache
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\obj\Debug\MedicalAutomationCommunity.DAO.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\obj\Debug\MedicalAutomationCommunity.DAO.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\bin\Debug\MedicalAutomationCommunity.DAO.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\bin\Debug\MedicalAutomationCommunity.DAO.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\obj\Debug\MedicalAutomationCommunity.DAO.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DAO\obj\Debug\MedicalAutomationCommunity.DAO.pdb

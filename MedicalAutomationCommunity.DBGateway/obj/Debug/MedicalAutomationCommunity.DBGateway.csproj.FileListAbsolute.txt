@@ -1,0 +1,14 @@
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DBGateway.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DBGateway.pdb
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DAO.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DAO.pdb
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\obj\Debug\MedicalAutomationCommunity.DBGateway.csprojResolveAssemblyReference.cache
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\obj\Debug\MedicalAutomationCommunity.DBGateway.dll
+F:\ASP.Net Project\Practise\MedicalAutomationCenter\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\obj\Debug\MedicalAutomationCommunity.DBGateway.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DBGateway.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DBGateway.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DAO.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\bin\Debug\MedicalAutomationCommunity.DAO.pdb
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\obj\Debug\MedicalAutomationCommunity.DBGateway.csprojResolveAssemblyReference.cache
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\obj\Debug\MedicalAutomationCommunity.DBGateway.dll
+E:\FTFL_ASP.Net\LAB Prac\5-2-15\MedicalCommunityAutomation\MedicalAutomationCommunity.DBGateway\obj\Debug\MedicalAutomationCommunity.DBGateway.pdb
